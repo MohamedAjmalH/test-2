@@ -42,7 +42,8 @@ Then, displayed the results using flask.
 6) Clicked build now
 
 #### Output
-  ![test 2](https://github.com/user-attachments/assets/d4c04859-2360-4f85-a86b-3f0518a5a83b)
+  ![WhatsApp Image 2024-11-15 at 21 28 00_9a633f03](https://github.com/user-attachments/assets/2dee6897-2297-4f64-9bb3-a248522ce57c)
+
 
 
 
