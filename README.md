@@ -1,7 +1,7 @@
-# Liver Patient Prediction
+# Bone Cancer Prediction
 
 ## Description
-This is colaborative team project of 4 members, where we were tasked with building 2 prediction model using different algorithms and compare both the algorithms based on some metric (e.g. accuracy, precision, etc), then display the comparision in the form of graph. 
+This is colaborative team project of 5 members, where we were tasked with building 2 prediction model using different algorithms and compare both the algorithms based on some metric (e.g. accuracy, precision, etc), then display the comparision in the form of graph. 
 
 We should then test the model in:
 1) Jenkins
